@@ -32,7 +32,7 @@ Final Year Computer Science Engineering Student and Data Science Intern passiona
 
 💼 Data Science Intern
 
-🤖 Passionate about
+🤖 **Passionate about**
 - Artificial Intelligence
 - Machine Learning
 - Generative AI
@@ -40,7 +40,7 @@ Final Year Computer Science Engineering Student and Data Science Intern passiona
 - Data Science
 - Data Analytics
 
-🌱 Currently Learning
+🌱 **Currently Learning**
 - Deep Learning
 - MLOps
 - AI Agents
@@ -48,7 +48,7 @@ Final Year Computer Science Engineering Student and Data Science Intern passiona
 - LLM Engineering
 - System Design
 
-🎯 Career Goal
+🎯 **Career Goal**
 To become an AI / Machine Learning Engineer building scalable, production-ready intelligent systems.
 
 ---
