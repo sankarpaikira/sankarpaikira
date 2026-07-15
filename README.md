@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Shankar Paikira
+# Hi 👋, I'm Sankar Paikira
 
 ### Data Science Intern | Machine Learning | Artificial Intelligence
 
