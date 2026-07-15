@@ -140,8 +140,8 @@ Modern React application powered by the TMDB API.
 # 📈 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sankarpaikira&show_icons=true&theme=tokyonight&v=1"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankarpaikira&layout=compact&theme=tokyonight&v=1"/>
+<img src="https://github-stats-extended.vercel.app/api?username=sankarpaikira&show_icons=true&ring_color=00FF00" alt="GitHub Stats" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sankarpaikira&layout=compact" alt="Top Languages" />
 </p>
 
 ---
