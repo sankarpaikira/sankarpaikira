@@ -150,7 +150,7 @@ Modern React application powered by the TMDB API.
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=DenverCoder1" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=sankarpaikira" alt="GitHub Streak" />
   </a>
 </div>
 
